@@ -1,0 +1,22 @@
+p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    text-align: center;
+
+}
+h1{
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color:white ;
+    text-align: center;
+}
+
+input{
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    text-align: center;
+
+
+
+}
