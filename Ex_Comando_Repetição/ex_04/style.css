@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{   
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20%;
+    background-color: rgba(212, 78, 0, 0.829);
+    color: white;
+}
+
+input, submit{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 75px;
+    width: 150px;
+
+}
